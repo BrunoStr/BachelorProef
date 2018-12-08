@@ -31,16 +31,14 @@
   timestamp = {2014.01.23}
 }
 
-@Article{Laver2017,
+@Article{Laver
+2017,
   author = {Kate E Laver},
   title  = {Virtual reality for stroke rehabilitation},
   year   = {2017},
 }
 
-@Article{Reddy2018,
-  author = {Shiva Reddy},
-  title  = {VR Fast Emerging As a Powerful Tool in Treating Anxiety Disorders},
-  year   = {2018},
+@Article{,
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
