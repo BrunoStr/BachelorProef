@@ -7,19 +7,64 @@
 
 % Pas na deze inleidende paragraaf komt de eerste sectiehoofding.
 
-Dit hoofdstuk bevat je literatuurstudie. De inhoud gaat verder op de inleiding, maar zal het onderwerp van de bachelorproef *diepgaand* uitspitten. De bedoeling is dat de lezer na lezing van dit hoofdstuk helemaal op de hoogte is van de huidige stand van zaken (state-of-the-art) in het onderzoeksdomein. Iemand die niet vertrouwd is met het onderwerp, weet er nu voldoende om de rest van het verhaal te kunnen volgen, zonder dat die er nog andere informatie moet over opzoeken \autocite{Pollefliet2011}.
 
-Je verwijst bij elke bewering die je doet, vakterm die je introduceert, enz. naar je bronnen. In \LaTeX{} kan dat met het commando \texttt{$\backslash${textcite\{\}}} of \texttt{$\backslash${autocite\{\}}}. Als argument van het commando geef je de ``sleutel'' van een ``record'' in een bibliografische databank in het Bib\TeX{}-formaat (een tekstbestand). Als je expliciet naar de auteur verwijst in de zin, gebruik je \texttt{$\backslash${}textcite\{\}}.
-Soms wil je de auteur niet expliciet vernoemen, dan gebruik je \texttt{$\backslash${}autocite\{\}}. In de volgende paragraaf een voorbeeld van elk.
+%Dit hoofdstuk bevat je literatuurstudie. De inhoud gaat verder op de inleiding, maar zal het onderwerp van de bachelorproef *diepgaand* uitspitten. De bedoeling is dat de lezer na lezing van dit hoofdstuk helemaal op de hoogte is van de huidige stand van zaken (state-of-the-art) in het onderzoeksdomein. Iemand die niet vertrouwd is met het onderwerp, weet er nu voldoende om de rest van het verhaal te kunnen volgen, zonder dat die er nog andere informatie moet over opzoeken \autocite{Pollefliet2011}.
+%
+%Je verwijst bij elke bewering die je doet, vakterm die je introduceert, enz. naar je bronnen. In \LaTeX{} kan dat met het commando \texttt{$\backslash${textcite\{\}}} of \texttt{$\backslash${autocite\{\}}}. Als argument van het commando geef je de ``sleutel'' van een ``record'' in een bibliografische databank in het Bib\TeX{}-formaat (een tekstbestand). Als je expliciet naar de auteur verwijst in de zin, gebruik je \texttt{$\backslash${}textcite\{\}}.
+%Soms wil je de auteur niet expliciet vernoemen, dan gebruik je \texttt{$\backslash${}autocite\{\}}. In de volgende paragraaf een voorbeeld van elk.
 
-\textcite{Knuth1998} schreef een van de standaardwerken over sorteer- en zoekalgoritmen. Experten zijn het erover eens dat cloud computing een interessante opportuniteit vormen, zowel voor gebruikers als voor dienstverleners op vlak van informatietechnologie~\autocite{Creeger2009}.
+%\textcite{Knuth1998} schreef een van de standaardwerken over sorteer- en zoekalgoritmen. Experten zijn het erover eens dat cloud computing een interessante opportuniteit vormen, zowel voor gebruikers als voor dienstverleners op vlak van informatietechnologie~\autocite{Creeger2009}.
 
-\lipsum[7-20]
+
+
+\section{Inleiding}
+In dit hoofdstuk zal de lezer ingedompeld worden in de wondere wereld van de virtuele realiteit. Er wordt dieper ingegaan op het technische aspect van VR, de ontwikkelingsomgevingen en soortgelijke applicaties. Men zal ook meer inzicht krijgen in de huidige stand van zaken in de revolutie die virtual reality teweeg brengt. Verder wordt er ook ingegaan op bepaalde revalidatietechnieken die versterkt kunnen worden met VR. Deze literatuurstudie is grotendeels gebaseerd op wetenschappelijke artikels, krantenartikels en educatief beeldmateriaal.
+
 \section{Virtual Reality}
 
-\subsection{Inleiding}
 \subsection{Verschil VR - AR - MR}
+Vandaag de dag komt men almaar vaker in aanraking met dergelijke termen zoals virtual, augmented en mixed reality. Veel mensen halen deze termen echter nog steeds door elkaar. Ter verduidelijking worden ze daarom hieronder één voor één opgeklaard. Vervolgens zal er ook  gekeken worden welke voordelen bepaalde technologieën met zich kunnen meebrengen die relevant zijn voor het onderzoek. 
+
+\subsubsection{Virtual reality}
+Bij het toepassen van deze technologie zal de gebruiker terechtkomen in een virtuele 3D wereld. Hier wordt men dus afgesloten van de echte realiteit, alles wat de gebruiker waarneemt is virtueel. Dankzij bewegingssensoren in de bril en/of controllers worden de bewegingen van de gebruiker weerspiegeld in de virtuele wereld. Enkele bekende VR brillen zijn: de Oculus Rift, HTC Vive en de Samsung Gear VR.
+
+\subsubsection{Augmented reality}
+Wanneer men spreekt over augmented reality gaat men de realiteit overladen met virtuele content. Men kan hier dus zeggen dat met behulp van AR de realiteit wordt aangevuld met virtuele, digitale data. Het grote verschil in vergelijking met VR is dat de gebruiker hier wel nog in contact komt met de werkelijkheid terwijl men bij VR helemaal is afgesloten van de realiteit.
+
+\subsubsection{Mixed reality}
+Ten slotte kent men ook nog mixed reality, soms ook wel merged reality genoemd. Deze technologie ondervindt invloeden van beide voorgaande technologieën. Hier worden elementen van VR en AR als het ware samengevoegd. Virtuele 3D beelden komen terecht in de echte wereld en men kan hier ook mee interageren zoals in de echte wereld. Dit is meteen ook het grote verschil tussen AR en MR. Augmented reality kan gezien worden als een extra virtuele laag die over de realiteit gelegd wordt terwijl Mixed reality daadwerkelijk de virtuele objecten in de echte wereld zal verwerken.
+
+Onderstaande afbeelding geeft een mooi overzicht van de verschillen tussen de technologieën. In VR zal de eend te zien zijn in een compleet virtuele omgeving, bij AR zal de eend te zien zijn bovenop de reële wereld en tenslotte bij MR zal de eend werkelijk in de omgeving geplaatst worden. MR zal voor de gebruiker dan ook als het meest realistisch waargenomen worden.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=1.2]{differenceVrArMr.JPG}
+	\caption{Visuele voorstelling van verschil tussen VR, AR en MR}
+\end{figure}
+
 \subsection{Geschiedenis}
+
+Men zou denken dat virtual reality een relatief jonge technologie is maar niets is minder waar. De fundamenten voor VR werden al veel langer geleden vastgelegd. De beginselen van het begrip rijkt terug naar het jaar 1929. Hier werd de technologie voor de eerste keer gebruikt in een vluchtsimulator ontwikkeld door Edward Link. Deze werd gebruikt om piloten op een veilige manier op te leiden. De zogenaamde ‘Link trainer’ werd ook veel in werking gesteld gedurende de Tweede wereldoorlog.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.5]{linkTrainer.png}
+	\caption{Edward Link en zijn 'link trainer'}
+\end{figure}
+
+In de jaren ’50 ontwierp Morton Heilig de Sensorama. Dit was een apparaat gelijkaardig aan een grote kijkdoos die alle zintuigen wist te stimuleren. Wanneer men in de Sensorama plaatsnam maakte het gebruik van geuren, geluiden, beelden en trillingen om de ervaring zo realistisch mogelijk te laten lijken. 
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=1]{sensorama.png}
+	\caption{De sensorama ontworpen door Morton Heilig}
+\end{figure}
+
+In de jaren ’60 kwam Heilig met de eerste Head mounted display, Telesphere mask genoemd. Dit was het eerste voorbeeld van VR zoals we het nu kennen. Deze werkte wel nog niet met motion tracking.
+Op deze functionaliteit moest men wachten tot het einde van de jaren ’60 toen ‘The ultimate display’ uit kwam.
+De echte opmars van VR begon echter in de jaren ’90 toen het al maar meer mensen bereikte. Voor thuisgebruik was het echter nog steeds te duur. Enkele jaren erna sprongen grotere bedrijven zoals Nintendo en Sega mee op de VR trend en brachten VR brillen uit. 
+
+
 \subsection{Bijwerkingen}
 \subsection{Web VR vs Native VR}
 \subsection{Mobile VR vs Desktop VR}
