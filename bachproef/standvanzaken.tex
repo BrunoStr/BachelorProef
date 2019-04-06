@@ -120,20 +120,45 @@ bron:https://web.wpi.edu/Pubs/E-project/Available/E-project-030614-143124/unrest
 \subsubsection{Unreal Engine}
 Naast Unity hebben we nog een andere veel gebruikte game engine nl. Unreal engine. Deze game engine werd ontwikkeld door Epic Games en werd voor de eerste keer voorgesteld bij de release van de populaire shooter game Unreal in 1998. Deze engine werd vooral gebruikt door de grotere game ontwikkelaars en -studio's. Het was minder populair bij de amateur ontwikkelaar omdat men een abonnement nodig had om toegang te krijgen. Vandaag de dag is Unreal Engine echter volledig gratis.
 
-\subsection{Frameworks}
-\subsubsection{Gear VR framework}
+\subsection{Degrees of freedom}
+
+bron: https://packet39.com/blog/2018/02/25/3dof-6dof-roomscale-vr-360-video-and-everything-in-between/
+
+Een belangrijke eigenschap van een VR headset zijn zijn vrijheidsgraden ofwel degrees of freedom (DOF). Dit slaat op het aantal verschillende richtingen dat een object kan bewegen in een 3D wereld. Er bestaan twee soorten vrijheidsgraden in VR: 3 DOF en 6 DOF. 
+
+\subsubsection{3 degrees of freedom}
+Bij 3 degrees of freedom kan een VR headset enkel de hoofdbeweging tracken, het systeem zal dus weten welke kant je opkijkt. Bij een 3 DOF headset kan men dus bewegen volgens drie assen genaamd: roll, yaw en pitch. Men kan dus stellen dat hier de oriëntatie getrackt wordt maar de positie niet. In een virtuele omgeving zal de gebruiker dus enkel kunnen 'rondkijken' terwijl hij steeds op dezelfde plaats blijft staan. De reden waarom men vaak nog 3 DOF gebruikt is omdat het heel eenvoudig is om enkel de oriëntatie te tracken. Zo zitten er in elke smartphone al voldoende sensoren om dit te tracken nl. een accelerometer en een gyroscoop. De positie in de ruimte tracken is echter al veel lastiger.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.14]{dofAxis.png}
+    \caption{De 3 assen voor oriëntatie te tracken: roll, yaw en pitch}
+\end{figure}
+
+\subsubsection{6 degrees of freedom}
+Wanneer men een 6 DOF headset gebruikt voelt men meteen dat de ervaring meer natuurlijk is dan een 3DOF systeem. Bij dit systeem wordt dus niet enkel de oriëntatie getrackt maar daarnaast ook de positie in de ruimte. Deze positie wordt eveneens door 3 assen bepaald nl. x-as, y-as en z-as. Hier zal de gebruiker in de virtuele omgeving naast rondkijken dus ook kunnen rondlopen zoals in de realiteit. Op hedendaagse headsets wordt het tracken van de positie meestal gerealiseerd door sensoren op de headset of externe camera's.
 
 \section{Verschillende soorten VR headsets}
 
+bron: https://www.aniwaa.com/guide/vr-ar/types-of-vr-headsets/
+
 \subsection{Desktop VR}
-Bij desktop VR headsets dient men steeds verbonden te zijn met een krachtige computer. Een andere benaming voor deze soort headsets is 'tethered VR headsets', wat dus wijst op de kabels die steeds nodig zijn. Het voordeel van deze soort headsets is dat het momenteel de grootste immersie aan de gebruiker kan leveren. Dit komt door de grote rekenkracht van de PC waardoor er veel kwaliteitsvollere omgevingen gerenderd kunnen worden, het aantal frames per seconde hoger ligt, etc. Ook beschikken de meeste desktop VR headsets over 6 degrees of freedom (6 DOF). Het nadeel is zoals eerder al genoemd dat men steeds vasthangt aan een externe computer en daarnaast zijn de instapkosten nog redelijk prijzig.
+Bij desktop VR headsets dient men steeds verbonden te zijn met een krachtige computer. Een andere benaming voor deze soort headsets is 'tethered VR headsets', wat dus wijst op de kabels die steeds nodig zijn. Het voordeel van deze soort headsets is dat het momenteel de grootste immersie aan de gebruiker kan leveren. Dit komt door de grote rekenkracht van de PC waardoor er veel kwaliteitsvollere omgevingen gerenderd kunnen worden, het aantal frames per seconde hoger ligt, etc. Ook beschikken de meeste desktop VR headsets over 6 degrees of freedom (6 DOF). Het nadeel is zoals eerder al genoemd dat men steeds vasthangt aan een externe computer en daarnaast zijn de instapkosten nog redelijk prijzig. Enkele bekende desktop VR headsets zijn: Oculus Rift, HTC Vive en de HTC Vive Pro.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.14]{vive.png}
+    \caption{De HTC Vive desktop VR headset}
+\end{figure}
+bron foto: https://www.vive.com/
 
 \subsection{Mobile VR}
 Door de grote opmars van de smartphone de laatste jaren hebben veel bedrijven zich eerst gericht op mobile VR. Iedereen had plots toegang tot VR en dit zorgde dan ook voor een grote interesse bij de mainstream. Bij een mobile headset wordt er dus eenvoudigweg een smartphone in een headset geplaatst.
 Een smartphone heeft in principe dus alles wat nodig is om te dienen als aandrijver van een VR headset. Het voordeel bij deze soort headsets is dat men geen kabels nodig heeft dus overal kan genieten van de VR ervaring. Helaas is er wel een keerzijde, namelijk dat een smartphone de rekenkracht van een externe computer niet kan bijhouden. Mobile VR zal (momenteel) dus steeds wat minder immersive aanvoelen dan een desktop VR. Daarnaast beschikt een smartphone enkel over sensoren om voor een 3 DOF ervaring te zorgen.
+Enkele bekende mobile headsets zijn: Samsung Gear VR, Google Daydream en Google cardboard.
 
 \subsection{Standalone VR}
-Bij deze soort headsets heeft men geen externe computer of smartphone nodig, alles zit erin (all-in-one). Deze categorie vormt de gulden middenweg tussen de twee vorige categorieën. Aan de ene kant hoeft men geen kabels in te steken alvorens men aan de slag kan gaan. Aan de andere kant zijn deze standalone's ook meer geschikt voor VR dan smartphones. Bij een standalone hangt men bijvoorbeeld niet vast aan de 3 DOF, men kan in de headset sensoren integreren zodat men een 6 DOF headset kan verkrijgen.
+Bij deze soort headsets heeft men geen externe computer of smartphone nodig, alles zit erin (all-in-one). Deze categorie vormt de gulden middenweg tussen de twee vorige categorieën. Aan de ene kant hoeft men geen kabels in te steken alvorens men aan de slag kan gaan. Aan de andere kant zijn deze standalone's ook meer geschikt voor VR dan smartphones. Bij een standalone hangt men bijvoorbeeld niet vast aan de 3 DOF, men kan in de headset sensoren integreren zodat men een 6 DOF headset kan verkrijgen. Voorlopig hebben we enkel nog maar 3 DOF standalone headsets ter beschikking, de meest bekende is de Oculus Go. Ditzelfde bedrijf heeft echter al een 6 DOF standalone headset aangekondigd, Oculus Quest genaamd, dat later dit jaar uit zal komen.
 
 
 \chapter{VR in de gezondheidszorg}
