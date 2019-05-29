@@ -214,4 +214,39 @@
   url    = {https://www.vrs.org.uk/virtual-reality/history.html},
 }
 
+@Online{Kumparak2014,
+  author = {Greg Kumparak},
+  title  = {A Brief History Of Oculus},
+  year   = {2014},
+  url    = {https://techcrunch.com/2014/03/26/a-brief-history-of-oculus/?guccounter=1&guce_referrer_us=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_cs=HWOq7DB8d5KSvwtFyLGAsw},
+}
+
+@Online{Bovenij2019,
+  author = {Bovenij},
+  title  = {Reisziekte},
+  year   = {2019},
+  url    = {https://www.kno-arts-amsterdam.nl/index.php/folders/reisziekte/?fbclid=IwAR069Vntr6RRYwrbrk0yl5nrs9GokYJEr0ZxOFav11N8lWECldaY8bYg3dY},
+}
+
+@Online{Bolluyt2017,
+  author = {Jess Bolluyt},
+  title  = {7 Surprising Side Effects of Virtual Reality},
+  year   = {2017},
+  url    = {https://www.cheatsheet.com/gear-style/surprising-side-effects-of-virtual-reality.html/?fbclid=IwAR1aYP-25T7yoBjQkidsQ9ZE1hllrRmPfhe7lp9_lesJeka95HvA2xLNkLo},
+}
+
+@Online{Kraft2017,
+  author = {Sy Kraft},
+  title  = {What's to know about motion sickness?},
+  year   = {2017},
+  url    = {https://www.medicalnewstoday.com/articles/176198.php?fbclid=IwAR3L0GDHbcIVnJWbssXj3JVc7kXH9pTMMNjNmjMLJ1p8ryVnh-XDdJbDOFc},
+}
+
+@Online{Utrecht2019,
+  author = {UMC Utrecht},
+  title  = {EVENWICHTSKLACHTEN},
+  year   = {2019},
+  url    = {https://www.umcutrecht.nl/nl/Ziekenhuis/Ziekte/Evenwichtsklachten},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
