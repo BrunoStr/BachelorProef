@@ -165,4 +165,53 @@
   url    = {https://www.rdmag.com/article/2017/08/virtual-snowworld-helps-burn-victims-cope-extreme-pain?fbclid=IwAR3HsizC0aUrmTwackUhmBXPgBJdaBHb2MaW78lkP2bPHqK_YmaGApgP5sY},
 }
 
+@Online{Washington2017,
+  author = {University Washington},
+  title  = {Virtual Reality Pain Reduction},
+  year   = {2017},
+  url    = {https://depts.washington.edu/hplab/research/virtual-reality/},
+}
+
+@Online{Mindmotion2019,
+  author = {Mindmotion},
+  title  = {Empowering the human brain to heal},
+  year   = {2019},
+  url    = {https://www.mindmaze.com/mindmotion/},
+}
+
+@Online{XRHealth2019,
+  author = {XRHealth},
+  title  = {All the VR/AR Health apps you need},
+  year   = {2019},
+  url    = {https://www.xr.health/},
+}
+
+@Online{KineQuantum2019,
+  author = {KineQuantum},
+  title  = {The 1st virtual reality solution for evaluation \& rehabilitation},
+  year   = {2019},
+  url    = {https://www.kinequantum.com/en},
+}
+
+@Online{Bergmann2018,
+  author = {David Bergmann},
+  title  = {HTC Vive auf der CES 2018},
+  year   = {2018},
+  url    = {https://www.pcgames.de/HTC-Vive-Hardware-261074/Videos/CES-2018-1247607/},
+}
+
+@Online{Barel2017,
+  author = {Avi Barel},
+  title  = {The differences between VR, AR \& MR},
+  year   = {2017},
+  url    = {https://medium.com/startux-net/the-differences-between-vr-ar-mr-27012ea1c5},
+}
+
+@Online{Society2019,
+  author = {VR Society},
+  title  = {History Of Virtual Reality},
+  year   = {2019},
+  url    = {https://www.vrs.org.uk/virtual-reality/history.html},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
