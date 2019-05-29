@@ -25,18 +25,10 @@
   year = {2009}
 }
 
-@Online{Oculus2018,
+@Online{Oculus,
   author = {Oculus},
   title  = {Game engines—how do they work?},
-  year   = {2018},
   url    = {https://unity3d.com/what-is-a-game-engine},
-}
-
-@Online{Staff2018,
-  author = {OXM Staff},
-  title  = {The most crucial part of video-game development explained},
-  year   = {2018},
-  url    = {https://www.gamesradar.com/what-is-a-game-engine-and-what-does-it-do/},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
