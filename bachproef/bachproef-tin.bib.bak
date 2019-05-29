@@ -165,11 +165,4 @@
   url    = {https://www.rdmag.com/article/2017/08/virtual-snowworld-helps-burn-victims-cope-extreme-pain?fbclid=IwAR3HsizC0aUrmTwackUhmBXPgBJdaBHb2MaW78lkP2bPHqK_YmaGApgP5sY},
 }
 
-@Online{Washington2017,
-  author = {University Washington},
-  title  = {Virtual Reality Pain Reduction},
-  year   = {2017},
-  url    = {https://depts.washington.edu/hplab/research/virtual-reality/},
-}
-
 @Comment{jabref-meta: databaseType:biblatex;}
