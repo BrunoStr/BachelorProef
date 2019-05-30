@@ -256,4 +256,11 @@
   url    = {https://seattledizzygroup.org/2018/04/30/posture-and-balance/balance-system-2/?fbclid=IwAR3GfrBQaOqMxOLvWzYcFW1EJrY49am7vn314rSLXyT7cAiUVmWF-4WEYJg},
 }
 
+@Online{Lang2013,
+  author = {Ben Lang},
+  title  = {An Introduction to Positional Tracking and Degrees of Freedom (DOF)},
+  year   = {2013},
+  url    = {https://www.roadtovr.com/introduction-positional-tracking-degrees-freedom-dof/},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
