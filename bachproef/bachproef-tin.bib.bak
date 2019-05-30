@@ -263,4 +263,32 @@
   url    = {https://www.roadtovr.com/introduction-positional-tracking-degrees-freedom-dof/},
 }
 
+@Online{Reddy2018,
+  author = {Shiva Reddy},
+  title  = {VR Fast Emerging As a Powerful Tool in Treating Anxiety Disorders},
+  year   = {2018},
+  url    = {https://imtinnovation.com/2018/02/05/vr-fast-emerging-as-a-powerful-tool-in-treating-anxiety-disorders/?fbclid=IwAR1SlE0xMthlpU7nONthQWYvg45f5VLZJZypLk4RI5dj3683zGxkTPQw0hY},
+}
+
+@Online{Boian2002,
+  author = {R. Boian and A. Sharma and C. Han and A. Merians and G. Burdea and S. Adamovich and M. Recce and M. Tremaine and H. Poizner},
+  title  = {Virtual Reality Augmented Rehabilitation for Patients Following Stroke},
+  year   = {2002},
+  url    = {https://www.researchgate.net/publication/11186368_Virtual_Reality-Augmented_Rehabilitation_for_Patients_Following_Stroke?fbclid=IwAR1SlE0xMthlpU7nONthQWYvg45f5VLZJZypLk4RI5dj3683zGxkTPQw0hY},
+}
+
+@Online{Burken2019,
+  author = {Peter van Burken},
+  title  = {Spiegeltherapie vergroot bewegingsuitslag bij schouderklachten},
+  year   = {2019},
+  url    = {https://www.psychfysio.nl/spiegeltherapie-vergroot-bewegingsuitslag-bij-schouderklachten/},
+}
+
+@Online{KOCHOA2019,
+  author = {Paul Kochoa},
+  title  = {What is kinesiophobia?},
+  year   = {2019},
+  url    = {https://www.professionalptandtraining.com/general-health-information/what-is-kinesiophobia/},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
