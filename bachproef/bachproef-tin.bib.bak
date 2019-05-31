@@ -25,7 +25,273 @@
   year = {2009}
 }
 
-@Online{Oculus,
+@Online{Oculus2017,
+  author = {Oculus},
+  title  = {Game engines—how do they work?},
+  year   = {2017},
+  url    = {https://unity3d.com/what-is-a-game-engine},
+}
+
+@Online{Staff2018,
+  author = {OXM Staff},
+  title  = {The most crucial part of video-game development explained},
+  year   = {2018},
+  url    = {https://www.gamesradar.com/what-is-a-game-engine-and-what-does-it-do/},
+}
+
+@Online{Haas2014,
+  author = {John Haas},
+  title  = {A History of the Unity Game Engine},
+  year   = {2014},
+  url    = {https://web.wpi.edu/Pubs/E-project/Available/E-project-030614-143124/unrestricted/Haas_IQP_Final.pdf},
+}
+
+@Online{Sutorcen2016,
+  author = {Sutorcen},
+  title  = {This is Unreal},
+  year   = {2016},
+  url    = {https://hotgates.eu/this-is-unreal/?fbclid=IwAR3mqwJhLD_4C5AnOt_AVCPXWy78nrNM-ACYMdtiRfWz_M5KuxCRgV_fYac},
+}
+
+@Online{Weis2018,
+  author = {Shachar Weis},
+  title  = {3DOF, 6DOF, RoomScale VR, 360 Video and Everything In Between},
+  year   = {2018},
+  url    = {https://packet39.com/blog/2018/02/25/3dof-6dof-roomscale-vr-360-video-and-everything-in-between/},
+}
+
+@Online{Cherdo2018,
+  author = {Ludivine Cherdo},
+  title  = {TYPES OF VR HEADSETS: PC VR, STANDALONE VR, SMARTPHONE VR},
+  year   = {2018},
+  url    = {https://www.aniwaa.com/guide/vr-ar/types-of-vr-headsets/},
+}
+
+@Online{Vive2019,
+  author = {Vive},
+  title  = {Htc Vive},
+  year   = {2019},
+  url    = {https://www.vive.com/},
+}
+
+@Online{Oculus2019,
+  author = {Oculus},
+  title  = {Oculus Quest},
+  year   = {2019},
+  url    = {https://www.oculus.com/quest/?locale=nl_NL},
+}
+
+@Online{Elion2018,
+  author = {Amir Elion},
+  title  = {3 Great Applications of Virtual Reality for Healthcare Training},
+  year   = {2018},
+  url    = {https://www.td.org/user/content/amirelion/3-great-applications-of-virtual-reality-for-healthcare-training-05-09-18-10-37},
+}
+
+@Online{Adobe2018,
+  author = {Adobe},
+  title  = {Could VR Change How Healthcare Providers Learn?},
+  year   = {2018},
+  url    = {https://theblog.adobe.com/vr-change-healthcare-providers-learn/},
+}
+
+@Online{Pelta2017,
+  author = {Julie Pelta},
+  title  = {The Benefits of Virtual Reality in Healthcare},
+  year   = {2017},
+  url    = {https://www.healthcare.digital/single-post/2017/11/02/The-Benefits-of-Virtual-Reality-in-Healthcare},
+}
+
+@Online{Realities2019,
+  author = {Medical Realities},
+  title  = {VR streaming during surgery},
+  year   = {2019},
+  url    = {https://www.medicalrealities.com/},
+}
+
+@Online{Keller2018,
+  author = {Jessica L. Maples-Keller},
+  title  = {The use of virtual reality technology in the treatment of anxiety and other psychiatric disorders},
+  year   = {2018},
+  url    = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5421394/},
+}
+
+@Online{Thoondee2017,
+  author = {Krsna Das Thoondee},
+  title  = {Using virtual reality to reduce stress at work},
+  year   = {2017},
+  url    = {https://ieeexplore.ieee.org/abstract/document/8252142},
+}
+
+@Online{Laver2017,
+  author = {Kate Laver},
+  title  = {Virtual reality for stroke rehabilitation},
+  year   = {2017},
+  url    = {https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008349.pub4/full},
+}
+
+@Online{Physiopedia2019,
+  author = {Physiopedia},
+  title  = {Mirror Therapy},
+  year   = {2019},
+  url    = {https://www.physio-pedia.com/Mirror_Therapy},
+}
+
+@Online{Saebo2018,
+  author = {Saebo},
+  title  = {Guide to Mirror Therapy and the Benefits of Neuroplasticity},
+  year   = {2018},
+  url    = {https://www.saebo.com/guide-mirror-therapy-benefits-neuroplasticity/},
+}
+
+@Online{Rehab2018,
+  author = {Flint Rehab},
+  title  = {Mirror Therapy for Stroke Recovery: How to Recover Severe Hand Impairments},
+  year   = {2018},
+  url    = {https://www.flintrehab.com/2018/mirror-therapy-stroke/?fbclid=IwAR0Qh4PVDszfNz1xl5GCW9oYGrBO-J1EewZCK3ZIkY0v1Yzr5M73VQV_or8},
+}
+
+@Online{Veenstra2019,
+  author = {Veenstra},
+  title  = {INSTRUCTIE SPIEGELTHERAPIE},
+  year   = {2019},
+  url    = {https://www.psychologieveenstra.nl/fantoompijn/instructie-spiegeltherapie/},
+}
+
+@Online{Panjwani2017,
+  author = {Laura Panjwani},
+  title  = {Virtual “SnowWorld” Helps Burn Victims Cope with Extreme Pain},
+  year   = {2017},
+  url    = {https://www.rdmag.com/article/2017/08/virtual-snowworld-helps-burn-victims-cope-extreme-pain?fbclid=IwAR3HsizC0aUrmTwackUhmBXPgBJdaBHb2MaW78lkP2bPHqK_YmaGApgP5sY},
+}
+
+@Online{Washington2017,
+  author = {University Washington},
+  title  = {Virtual Reality Pain Reduction},
+  year   = {2017},
+  url    = {https://depts.washington.edu/hplab/research/virtual-reality/},
+}
+
+@Online{Mindmotion2019,
+  author = {Mindmotion},
+  title  = {Empowering the human brain to heal},
+  year   = {2019},
+  url    = {https://www.mindmaze.com/mindmotion/},
+}
+
+@Online{XRHealth2019,
+  author = {XRHealth},
+  title  = {All the VR/AR Health apps you need},
+  year   = {2019},
+  url    = {https://www.xr.health/},
+}
+
+@Online{KineQuantum2019,
+  author = {KineQuantum},
+  title  = {The 1st virtual reality solution for evaluation \& rehabilitation},
+  year   = {2019},
+  url    = {https://www.kinequantum.com/en},
+}
+
+@Online{Bergmann2018,
+  author = {David Bergmann},
+  title  = {HTC Vive auf der CES 2018},
+  year   = {2018},
+  url    = {https://www.pcgames.de/HTC-Vive-Hardware-261074/Videos/CES-2018-1247607/},
+}
+
+@Online{Barel2017,
+  author = {Avi Barel},
+  title  = {The differences between VR, AR \& MR},
+  year   = {2017},
+  url    = {https://medium.com/startux-net/the-differences-between-vr-ar-mr-27012ea1c5},
+}
+
+@Online{Society2019,
+  author = {VR Society},
+  title  = {History Of Virtual Reality},
+  year   = {2019},
+  url    = {https://www.vrs.org.uk/virtual-reality/history.html},
+}
+
+@Online{Kumparak2014,
+  author = {Greg Kumparak},
+  title  = {A Brief History Of Oculus},
+  year   = {2014},
+  url    = {https://techcrunch.com/2014/03/26/a-brief-history-of-oculus/?guccounter=1&guce_referrer_us=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_cs=HWOq7DB8d5KSvwtFyLGAsw},
+}
+
+@Online{Bovenij2019,
+  author = {Bovenij},
+  title  = {Reisziekte},
+  year   = {2019},
+  url    = {https://www.kno-arts-amsterdam.nl/index.php/folders/reisziekte/?fbclid=IwAR069Vntr6RRYwrbrk0yl5nrs9GokYJEr0ZxOFav11N8lWECldaY8bYg3dY},
+}
+
+@Online{Bolluyt2017,
+  author = {Jess Bolluyt},
+  title  = {7 Surprising Side Effects of Virtual Reality},
+  year   = {2017},
+  url    = {https://www.cheatsheet.com/gear-style/surprising-side-effects-of-virtual-reality.html/?fbclid=IwAR1aYP-25T7yoBjQkidsQ9ZE1hllrRmPfhe7lp9_lesJeka95HvA2xLNkLo},
+}
+
+@Online{Kraft2017,
+  author = {Sy Kraft},
+  title  = {What's to know about motion sickness?},
+  year   = {2017},
+  url    = {https://www.medicalnewstoday.com/articles/176198.php?fbclid=IwAR3L0GDHbcIVnJWbssXj3JVc7kXH9pTMMNjNmjMLJ1p8ryVnh-XDdJbDOFc},
+}
+
+@Online{Utrecht2019,
+  author = {UMC Utrecht},
+  title  = {EVENWICHTSKLACHTEN},
+  year   = {2019},
+  url    = {https://www.umcutrecht.nl/nl/Ziekenhuis/Ziekte/Evenwichtsklachten},
+}
+
+@Online{Dizzy2018,
+  author = {Seattle Dizzy},
+  title  = {Balance System},
+  year   = {2018},
+  url    = {https://seattledizzygroup.org/2018/04/30/posture-and-balance/balance-system-2/?fbclid=IwAR3GfrBQaOqMxOLvWzYcFW1EJrY49am7vn314rSLXyT7cAiUVmWF-4WEYJg},
+}
+
+@Online{Lang2013,
+  author = {Ben Lang},
+  title  = {An Introduction to Positional Tracking and Degrees of Freedom (DOF)},
+  year   = {2013},
+  url    = {https://www.roadtovr.com/introduction-positional-tracking-degrees-freedom-dof/},
+}
+
+@Online{Reddy2018,
+  author = {Shiva Reddy},
+  title  = {VR Fast Emerging As a Powerful Tool in Treating Anxiety Disorders},
+  year   = {2018},
+  url    = {https://imtinnovation.com/2018/02/05/vr-fast-emerging-as-a-powerful-tool-in-treating-anxiety-disorders/?fbclid=IwAR1SlE0xMthlpU7nONthQWYvg45f5VLZJZypLk4RI5dj3683zGxkTPQw0hY},
+}
+
+@Online{Boian2002,
+  author = {R. Boian and A. Sharma and C. Han and A. Merians and G. Burdea and S. Adamovich and M. Recce and M. Tremaine and H. Poizner},
+  title  = {Virtual Reality Augmented Rehabilitation for Patients Following Stroke},
+  year   = {2002},
+  url    = {https://www.researchgate.net/publication/11186368_Virtual_Reality-Augmented_Rehabilitation_for_Patients_Following_Stroke?fbclid=IwAR1SlE0xMthlpU7nONthQWYvg45f5VLZJZypLk4RI5dj3683zGxkTPQw0hY},
+}
+
+@Online{Burken2019,
+  author = {Peter van Burken},
+  title  = {Spiegeltherapie vergroot bewegingsuitslag bij schouderklachten},
+  year   = {2019},
+  url    = {https://www.psychfysio.nl/spiegeltherapie-vergroot-bewegingsuitslag-bij-schouderklachten/},
+}
+
+@Online{KOCHOA2019,
+  author = {Paul Kochoa},
+  title  = {What is kinesiophobia?},
+  year   = {2019},
+  url    = {https://www.professionalptandtraining.com/general-health-information/what-is-kinesiophobia/},
+}
+
+@Online{Oculus2017,
   author = {Oculus},
   title  = {Game engines—how do they work?},
   url    = {https://unity3d.com/what-is-a-game-engine},
